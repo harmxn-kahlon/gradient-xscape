@@ -44,8 +44,12 @@ Learning Goals
 **This project allowed me to practice key web development skills such as:**
 
 Working with APIs (TMDb API for movie data).
+
 Handling dynamic user input and interacting with the DOM (Document Object Model).
+
 Implementing color manipulation techniques (hex to RGB conversion, color similarity algorithms).
+
 Integrating third-party libraries to enhance functionality (Color Thief for color extraction).
+
 By building this project, I gained valuable experience in front-end development, API integration, and problem-solving, while creating an engaging and visually-driven web experience for users.
 
